@@ -14,6 +14,7 @@ public class weekday {
             case 5:System.out.println("friday");break;
             case 6:System.out.println("saturday");break;
             case 7:System.out.println("sunday");break;
+            default:system.out.println("please enter a valid number");
                    
 
          }
@@ -23,3 +24,4 @@ public class weekday {
     }
     
 }
+
