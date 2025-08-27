@@ -12,6 +12,3 @@ public class typeconversion {
 }
 
 
-
-byte> short> int> long> float> double
-char> int
